@@ -1,11 +1,3 @@
-.imagem {
-  border-radius: 20px;
-  max-width: 50%;
-  max-height: 50%;
-}
-.title {
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-}
 .btn {
   padding: 20px 40px;
   margin: 50px;
@@ -17,12 +9,9 @@
   font-weight: bold;
   font-size: 16px;
 }
+
 .btn:hover {
   background-color: #b18ace;
-}
-
-.position {
-  text-align: center;
 }
 
 .highlight {
@@ -31,7 +20,18 @@
   width: 100%;
 }
 
+.imagem {
+  border-radius: 20px;
+  max-width: 50%;
+  max-height: 50%;
+}
+
+.position {
+  text-align: center;
+}
+
 .title {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   position: relative;
 }
 
